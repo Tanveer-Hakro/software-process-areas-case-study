@@ -1,0 +1,6 @@
+requirement_id,description,source,priority,status,notes
+REQ-01,Cost under $50 per person,Management,High,Approved,Core constraint
+REQ-02,Suitable for various fitness levels,Team Survey,High,Approved,Selected moderate trail
+REQ-03,Include a meal (picnic-style),Team Survey,High,Approved,BBQ plan created
+REQ-04,Location within 1-hour drive,Team Survey,Medium,Approved,Maple Creek Park chosen
+REQ-05,Dog-friendly activity,Several Members,Low,Rejected,Park rules prohibit pets
