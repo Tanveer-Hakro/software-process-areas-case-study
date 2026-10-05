@@ -172,36 +172,6 @@ The six-dimension summary shows strongest performance in **Budget Adherence** an
 
 ---
 
-## Repository structure
-
-```text
-software-process-areas-case-study/
-├── README.md
-├── assets/
-│   ├── process-area-workflow.svg
-│   ├── requirements-priority.png
-│   ├── budget-plan-vs-actual.png
-│   ├── quality-dashboard.png
-│   ├── performance-radar.png
-│   └── configuration-control.svg
-├── data/
-│   ├── requirements.csv
-│   ├── budget.csv
-│   ├── quality_metrics.csv
-│   ├── performance_metrics.csv
-│   ├── document_registry.csv
-│   └── change_log.csv
-├── docs/
-│   ├── case-study.md
-│   └── process-control-notes.md
-├── scripts/
-│   └── generate_visuals.py
-├── requirements.txt
-└── .gitignore
-```
-
----
-
 ## Reproduce the visualizations
 
 ```bash
@@ -222,7 +192,3 @@ All chart values are stored in `data/`, so the graphics can be regenerated inste
 The main lesson of the case study is that structured process management scales down as well as up. Even a small one-day project benefits from traceable requirements, an explicit plan, performance monitoring, independent quality checks, and controlled versions of project artifacts.
 
 ---
-
-## Privacy
-
-This public version intentionally contains **no student name, student ID, personal directory path, terminal username, private machine information, or other personal identifiers**. The original assignment file is not included in the repository.
